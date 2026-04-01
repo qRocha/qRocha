@@ -41,7 +41,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keltriz/keltriz/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/qRocha/qRocha/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
